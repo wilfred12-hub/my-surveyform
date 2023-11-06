@@ -1,64 +1,69 @@
 body {
-	 background-color: rgb(46, 46, 90);
-	 background-image: url(https://shots.codepen.io/leen624/pen/mdLjbbz-512.jpg?version=1664907060);
-	 margin-left: 5rem;
+	background-color: rgb(46, 46, 90);
+	background-image: url("https://shots.codepen.io/leen624/pen/mdLjbbz-512.jpg?version=1664907060");
+	margin-left: 5rem;
 }
 
-	h1 {
-	 text-align: center;
+h1 {
+	text-align: center;
 }
 
 p {
-	 font-style: italic;
-	 text-align: center;
+	font-style: italic;
+	text-align: center;
 }
 
 form {
- 	 background-color: lightblue;
-	 margin: 50px;
-	 width: 700px;
-	 height: 1000px;
-	 gap: 10px;
+	background-color: lightblue;
+	margin: 50px;
+	width: 700px;
+	height: 1000px;
+	gap: 10px;
 }
 
 label {
-	 margin-bottom: 40px;
-	 margin-top: 30px;
-   margin-left: 25px;
-	 gap: 40px;
-	}
+	margin-bottom: 40px;
+	margin-top: 30px;
+	margin-left: 25px;
+	gap: 40px;
+}
 
 .first {
-   padding: 10px;
-   height: 14px;
-   width: 250px;
-	 margin: 25px;
-	 margin-left: 30px;
-	}
+	padding: 10px;
+	height: 14px;
+	width: 250px;
+	margin: 25px;
+	margin-left: 30px;
+}
 
 .second {
-   left: 30px;
+	padding: 10px;
+	height: 14px;
+	width: 250px;
+	margin: 10px;
+	margin-left: 30px;
 }
 
 .third {
-	 padding: 10px;
-	 height: 14px;
-	 width: 250px;
-	 margin: 25px;
-	 margin-left: 30px;
+	padding: 10px;
+	height: 14px;
+	width: 250px;
+	margin: 25px;
+	margin-left: 30px;
 }
 
-.forth {
-	 padding: 10px;
-	 height: 14px;
-	 width: 250px;
-	 margin: 25px; margin-left: 30px;
+.fourth {
+	padding: 10px;
+	height: 14px;
+	width: 250px;
+	margin: 25px;
+	margin-left: 30px;
 }
 
 .fifth {
-	 padding: 10px;
-	 height: 14px;
-	 width: 250px;
-	 margin: 25px;
-	 margin-left: 30px;
+	padding: 10px;
+	height: 14px;
+	width: 250px;
+	margin: 25px;
+	margin-left: 30px;
 }
